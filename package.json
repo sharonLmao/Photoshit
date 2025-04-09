@@ -1,0 +1,17 @@
+{
+  "name": "photoshit",
+  "version": "1.0.0",
+  "description": "A simple 3D perspective warp tool",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["image", "perspective", "warp", "canvas", "html5"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^5.1.0"
+  }
+}
